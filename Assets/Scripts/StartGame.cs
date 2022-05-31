@@ -22,4 +22,9 @@ public class StartGame : MonoBehaviour
     {
 
     }
+
+    void OnExit(InputValue value)
+    {
+        Application.Quit();
+    }
 }

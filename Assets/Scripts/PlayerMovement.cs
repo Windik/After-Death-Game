@@ -103,4 +103,9 @@ public class PlayerMovement : MonoBehaviour
             FindObjectOfType<GameSession>().ProcessPlayerDeath();
         }
     }
+
+    void OnExit(InputValue value)
+    {
+        Application.Quit();
+    }
 }

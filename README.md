@@ -2,9 +2,9 @@
  My source of the After Death game for GameDev.tv Game Jam 2022
 
 # Used tools
-Aseprite - for pixelart and animations
+[Aseprite](https://www.aseprite.org/) - for pixelart and animations
 
-VSCode - like a scripts editor
+[VSCode](https://code.visualstudio.com/) - like a scripts editor
 
 # Pictures
 ![Screenshot from the game](Pictures/first_stage.png)

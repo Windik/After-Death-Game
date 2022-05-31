@@ -3,6 +3,7 @@
 
 # Used tools
 Aseprite - for pixelart and animations
+
 VSCode - like a scripts editor
 
 # Pictures

@@ -9,7 +9,7 @@ VSCode - like a scripts editor
 
 # Pictures
 
-![Screenshot from the game](pictures/first_stage.png)
-![Screenshot from the game](pictures/portal.png)
-![Screenshot from the game](pictures/bullet.png)
-![Screenshot from the game](pictures/ladder.png)
+![Screenshot from the game](Pictures/first_stage.png)
+![Screenshot from the game](Pictures/portal.png)
+![Screenshot from the game](Pictures/bullet.png)
+![Screenshot from the game](Pictures/ladder.png)
